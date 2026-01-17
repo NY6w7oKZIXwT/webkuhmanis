@@ -14,6 +14,8 @@
     "setup": "npm install && npm run migrate -w backend"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/howler": "^2.2.12",
     "concurrently": "^8.2.2"
   }
 }
